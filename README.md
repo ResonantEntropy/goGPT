@@ -40,7 +40,7 @@ The default "Tiny" configuration is designed for rapid iteration:
 
 ### Installation & Execution
 ```bash
-git clone [https://github.com/ResonantEntropy/goGPT.git](https://github.com/ResonantEntropy/goGPT.git)
+git clone https://github.com/ResonantEntropy/goGPT.git
 cd goGPT
 
 go run main.go
